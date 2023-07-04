@@ -5,9 +5,13 @@ AI工具整理
 
 欢迎来到 AI 工具仓库！本仓库旨在整理和归类各种 AI 工具和资源。它旨在提供一个经过筛选的工具、库、框架和资源清单，以供 AI 从业者、研究人员和爱好者使用。
 
-AI工具
 
-AI大模型
+
+[AI工具整理](https://github.com/itsoulai/AI-Tool/blob/main/AI%E5%B7%A5%E5%85%B7%E6%95%B4%E7%90%86.md)
+
+[AI大模型](https://github.com/itsoulai/AI-Tool/blob/main/AI%E5%A4%A7%E6%A8%A1%E5%9E%8B.md)
+
+
 
 开源大模型
 
