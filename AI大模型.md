@@ -20,6 +20,8 @@
 
 字节跳动推出火山方舟大模型
 
+[TechGPT](https://github.com/neukg/TechGPT)  东北大学
+
 
 
 #### 图像生成模型
@@ -53,3 +55,35 @@
 恒生电子-LightGPT
 
 同花顺-申请备案中
+
+
+
+#### 医疗大模型
+
+OpenMEDLab浦医 上海AI实验室开源全球首个医疗基础模型群
+
+胸部X-ray基础模型 上交大团队推出首个
+
+
+
+#### 气象大模型
+
+华为云盘古气象大模型
+
+
+
+#### 交通大模型
+
+[TransGPT](https://github.com/DUOMO/TransGPT)
+
+
+
+#### 机器人多模态大模型
+
+RobotGPT
+
+
+
+####  物理嵌入递归卷积神经网络（Physics-encoded Recurrent Convolutional Neural Network，PeRCNN）
+
+[mindscience: MindScience is scientific computing kits for various industries based on the converged MindSpore framework. - Gitee.com](https://gitee.com/mindspore/mindscience/tree/master/MindFlow/applications/data_mechanism_fusion/PeRCNN)
